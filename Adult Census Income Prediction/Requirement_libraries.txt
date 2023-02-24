@@ -1,0 +1,7 @@
+Numpy
+pandas
+Matplotlib
+Seaborn
+sklearn
+a.) from sklearn.preprocessing import labelEncoder
+b.) from imblearn.over_sampling import RandomOverSampler
